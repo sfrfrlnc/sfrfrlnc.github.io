@@ -3,7 +3,7 @@
     <title>SFRFRLNC</title>
     <link href="https://sfrfrlnc.github.io/feed.xml" rel="self" />
     <link href="https://sfrfrlnc.github.io" />
-    <updated>2022-11-07T17:00:19+07:00</updated>
+    <updated>2022-11-07T23:31:05+07:00</updated>
     <author>
         <name>Admin</name>
     </author>
@@ -16,9 +16,10 @@
         </author>
         <link href="https://sfrfrlnc.github.io/project-berkebun-sawi-dengan-cara-biasa.html"/>
         <id>https://sfrfrlnc.github.io/project-berkebun-sawi-dengan-cara-biasa.html</id>
+        <media:content url="https://sfrfrlnc.github.io/media/posts/5/thumbnail.png" medium="image" />
             <category term="Artikel Project"/>
 
-        <updated>2022-11-07T17:00:19+07:00</updated>
+        <updated>2022-11-07T23:30:50+07:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -29,9 +30,10 @@
         </author>
         <link href="https://sfrfrlnc.github.io/jenis-jenis-tanaman-yang-cocok-untuk-daerah-bersuhu-tinggi.html"/>
         <id>https://sfrfrlnc.github.io/jenis-jenis-tanaman-yang-cocok-untuk-daerah-bersuhu-tinggi.html</id>
+        <media:content url="https://sfrfrlnc.github.io/media/posts/4/thumbnail.png" medium="image" />
             <category term="Artikel Umum"/>
 
-        <updated>2022-11-07T16:59:54+07:00</updated>
+        <updated>2022-11-07T23:30:57+07:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -42,9 +44,10 @@
         </author>
         <link href="https://sfrfrlnc.github.io/mengenal-jenis-jenis-teknik-berkebun.html"/>
         <id>https://sfrfrlnc.github.io/mengenal-jenis-jenis-teknik-berkebun.html</id>
+        <media:content url="https://sfrfrlnc.github.io/media/posts/3/thumbnail.png" medium="image" />
             <category term="Artikel Umum"/>
 
-        <updated>2022-11-07T16:59:09+07:00</updated>
+        <updated>2022-11-07T23:31:05+07:00</updated>
             <summary></summary>
         <content></content>
     </entry>
