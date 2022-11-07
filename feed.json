@@ -9,5 +9,44 @@
         "name": "Admin"
     },
     "items": [
+        {
+            "id": "https://sfrfrlnc.github.io/project-berkebun-sawi-dengan-cara-biasa.html",
+            "url": "https://sfrfrlnc.github.io/project-berkebun-sawi-dengan-cara-biasa.html",
+            "title": "Project Berkebun Sawi dengan Cara Biasa",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+                   "Artikel Project"
+            ],
+            "date_published": "2022-11-07T17:00:19+07:00",
+            "date_modified": "2022-11-07T17:00:19+07:00"
+        },
+        {
+            "id": "https://sfrfrlnc.github.io/jenis-jenis-tanaman-yang-cocok-untuk-daerah-bersuhu-tinggi.html",
+            "url": "https://sfrfrlnc.github.io/jenis-jenis-tanaman-yang-cocok-untuk-daerah-bersuhu-tinggi.html",
+            "title": "Jenis-Jenis Tanaman yang Cocok untuk Daerah Bersuhu Tinggi",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+                   "Artikel Umum"
+            ],
+            "date_published": "2022-11-07T16:59:54+07:00",
+            "date_modified": "2022-11-07T16:59:54+07:00"
+        },
+        {
+            "id": "https://sfrfrlnc.github.io/mengenal-jenis-jenis-teknik-berkebun.html",
+            "url": "https://sfrfrlnc.github.io/mengenal-jenis-jenis-teknik-berkebun.html",
+            "title": "Mengenal Jenis-Jenis Teknik Berkebun",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+                   "Artikel Umum"
+            ],
+            "date_published": "2022-11-07T16:59:09+07:00",
+            "date_modified": "2022-11-07T16:59:09+07:00"
+        }
     ]
 }
