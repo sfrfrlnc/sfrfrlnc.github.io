@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sfrfrlnc.github.io/sitemap.xml
