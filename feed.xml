@@ -3,12 +3,44 @@
     <title>SFRFRLNC</title>
     <link href="https://sfrfrlnc.github.io/feed.xml" rel="self" />
     <link href="https://sfrfrlnc.github.io" />
-    <updated>2022-11-08T02:23:44+07:00</updated>
+    <updated>2022-12-01T21:12:38+07:00</updated>
     <author>
         <name>Admin</name>
     </author>
     <id>https://sfrfrlnc.github.io</id>
 
+    <entry>
+        <title>Desain Kolam Ikan dengan Toren dengan Format 3D Blender</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://sfrfrlnc.github.io/desain-kolam-ikan-toren.html"/>
+        <id>https://sfrfrlnc.github.io/desain-kolam-ikan-toren.html</id>
+        <media:content url="https://sfrfrlnc.github.io/media/posts/6/thumbnail-half-2.png" medium="image" />
+            <category term="Artikel Project"/>
+
+        <updated>2022-12-01T21:12:38+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sfrfrlnc.github.io/media/posts/6/thumbnail-half-2.png" alt="" />
+                    Ikan bisa melengkapi keindahan kebun. Untuk memeliharanya, diperlukan penampung air. Berbagai cara bisa dilakukan untuk menampung air. Kali ini, saya akan berbagi desain kolam ikan. Hanya saja, kali ini, saya menggunakan toren sebagai bahannya. Berikut ini gambarnya. Jika Anda ingin melihat file 3D berformat blender&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sfrfrlnc.github.io/media/posts/6/thumbnail-half-2.png" class="type:primaryImage" alt="" /></p>
+                <p>Ikan bisa melengkapi keindahan kebun.</p>
+<p>Untuk memeliharanya, diperlukan penampung air.</p>
+<p>Berbagai cara bisa dilakukan untuk menampung air.</p>
+<p>Kali ini, saya akan berbagi desain kolam ikan.</p>
+<p>Hanya saja, kali ini, saya menggunakan toren sebagai bahannya.</p>
+<p>Berikut ini gambarnya.</p>
+<figure class="post__image post__image--center align-left"><img loading="lazy"  src="https://github.com/sfrfrlnc/sfrfrlnc-3d-models/blob/main/kolam-toren/kolam-toren-1.png?raw=true" alt="" width="1920" height="1040" data-is-external-image="true"></figure>
+<p>Jika Anda ingin melihat file 3D berformat blender nya, klik di sini:</p>
+<p class="align-center"><a class="btn" href="https://github.com/sfrfrlnc/sfrfrlnc-3d-models/blob/main/kolam-toren/kolam-toren.blend" target="_blank" rel="noopener noreferrer">Download</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Mengenal Jenis-Jenis Teknik Berkebun</title>
         <author>
